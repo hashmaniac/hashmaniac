@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and data analytics
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on projects for positive change
-- 📫 Reach me on twitter https://twitter.com/IBeMbuvi
+- 📫 Reach me on email info@mbuvidenis.com
 
 <!---
 hashmaniac/hashmaniac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
